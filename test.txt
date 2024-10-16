@@ -18,6 +18,7 @@ testing branch test.txt
 **********************
 testing merge and creating a new test3.txt
 **********************
+pull
 **********************
 **********************
 **********************
