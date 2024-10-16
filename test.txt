@@ -15,6 +15,7 @@ drwxrwxr-x 7 ccc ccc 4.0K Oct 16 13:37 .git
 **********************
 testing branch test.txt
 **********************
+testing merge and creating a new test3.txt
 **********************
 **********************
 **********************
