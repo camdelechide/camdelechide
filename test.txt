@@ -13,6 +13,7 @@ drwxr-xr-x 3 ccc ccc 4.0K Oct  2 15:04 ..
 drwxrwxr-x 7 ccc ccc 4.0K Oct 16 13:37 .git
 -rw-rw-r-- 1 ccc ccc  435 Oct 16 13:40 test.txt
 **********************
+this is a copy of master but created as an emergency
 **********************
 **********************
 **********************
